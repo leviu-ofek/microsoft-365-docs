@@ -60,7 +60,7 @@ On the Mailbox chart:
 
 ### The Storage chart
 
-The **Storage** chart shows you amount of storage used in your organization by mailbox type. Storage Chart doesn't include archive mailboxes. For more information about auto-expanding archiving, see [Overview of auto-expanding archiving in Microsoft 365](../../compliance/autoexpanding-archiving.md).
+The **Storage** chart shows you amount of storage used in your organization by mailbox type. Storage Chart doesn't include archive mailboxes.
 
 On the Storage chart:
 - The Y axis is the amount of storage being used by user or shared mailboxes in your organization.
